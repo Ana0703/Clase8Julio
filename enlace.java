@@ -8,5 +8,8 @@ public class enlace {
         int r=8;
         int s=5;
         int su=r+s;
+        System.out.println(su);
+        int res=r-s;
+        System.out.println(res);
     }
 }
